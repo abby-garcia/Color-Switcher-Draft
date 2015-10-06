@@ -1,0 +1,48 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/*body{
+	margin-right: 30px;
+}*/
+
+/*header{
+	background-color: #FFFFCC;
+}*/
+
+header h1{
+	text-align: center;
+}
+
+img{
+	width: 300px;
+	height:230px;
+	text-align: center;
+	margin-left: 119px;
+
+}
+
+
+h2{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+.suncreen{
+	background-color: #E8E8E8;
+}
+
+.foods{
+	background-color: #FFFF99;
+}
+
+
+
+
+
+
