@@ -12,6 +12,13 @@
 	background-color: #FFFFCC;
 }*/
 
+header{
+  background-image: url(../img/leaves.png);
+  height:164px;
+}
+
+
+
 header h1{
 	text-align: center;
 }
@@ -39,12 +46,14 @@ p{
 }
 
 
-button{
+.foods-button{
 	margin-top: 10px;
 	margin-left: 32%;
-
-
 }
+
+
+
+
 
 /*COLOR SWITCHER*/
 .red, .blue, .pink, .green {
