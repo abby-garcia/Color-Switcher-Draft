@@ -33,16 +33,40 @@ p{
 	text-align: center;
 }
 
-.suncreen{
-	background-color: #E8E8E8;
-}
-
-.foods{
+.body-content {
 	background-color: #FFFF99;
+	height:600px;
 }
 
 
+button{
+	margin-top: 10px;
+	margin-left: 32%;
 
 
+}
+
+/*COLOR SWITCHER*/
+.red, .blue, .pink, .green {
+	height:40px;
+	width: 40px;
+
+
+}
+.red{
+	background-color: #D00000; 
+}
+
+.blue{
+	background-color: #3333FF;
+}
+
+.pink {
+	background-color: #FF2BB2;
+}
+
+.green {
+	background-color: #32F999;
+}
 
 
