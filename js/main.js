@@ -31,6 +31,14 @@ $('.green').on("click", function() {
 
 
 
+// slide down button
+$( ".fa-angle-double-down" ).click(function() {
+  $( ".stores" ).slideDown( "slow", function() {
+    // Animation complete.
+  });
+});
+
+
 
 
 

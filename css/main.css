@@ -59,7 +59,7 @@ p{
 
 /* Sunscreen products/ Sun Food*/
 
-.body-content {
+.body-body-color {
 	background-color: #FFFF99;
 	height:600px;
 }
@@ -80,6 +80,13 @@ p{
 	font-family: 'Dosis', sans-serif;
 
 }
+
+.fa-angle-double-down{
+	margin-left: 600px;
+	margin-top: 30px;
+}
+
+
 
 /*Stores*/
 .stores{
