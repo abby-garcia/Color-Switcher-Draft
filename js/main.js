@@ -1,8 +1,9 @@
 $( document ).ready(function() {
     $('.red').on("click", function() {
 
-
 		$('.body-content').css({'background-color': '#D00000'});
+		$('.body-content').css({'h2': '#FFD700'});
+
 
 	});
 
@@ -29,13 +30,11 @@ $('.green').on("click", function() {
 
 	});
 
-
+ $( ".stores" ).hide();
 
 // slide down button
-$( ".fa-angle-double-down" ).click(function() {
-  $( ".stores" ).slideDown( "slow", function() {
-    // Animation complete.
-  });
+$( ".fa-angle-double-down" ).on("click", function() {
+    $( ".stores" ).slideToggle("slow");
 });
 
 
