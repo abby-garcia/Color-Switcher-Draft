@@ -1,10 +1,7 @@
 $( document ).ready(function() {
     $('.red').on("click", function() {
 
-		$('.body-content').css({'background-color': '#D00000'});
-		$('.body-content').css({'h2': '#FFD700'});
-
-
+		$('.body-content').css({'background-color': '#D00000', 'h2': '#FFD700'});
 	});
 
 
